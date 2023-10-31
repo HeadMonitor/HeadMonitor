@@ -37,9 +37,17 @@
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 
-  <hr/>
+<h1 align="center">Sponsor Me</h1>
+<p align="center">
+  <a href="https://github.com/sponsors/HeadMonitor">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
+  </a>
+  <a href="https://www.paypal.com/paypalme/headmonitor">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</p>  
 
-  <p align="center">
-    <img src="https://cdn.discordapp.com/emojis/667396343790174228.gif?size=128&quality=lossless" />
-  </p>
+<h1></h1>
+<p align="center">
+  <img src="https://cdn.discordapp.com/emojis/667396343790174228.gif?size=128&quality=lossless" />
 </p>
