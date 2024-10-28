@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a3b9a21.css",
+    "main.js": "/static/js/main.357c8585.js",
+    "static/js/453.b678e037.chunk.js": "/static/js/453.b678e037.chunk.js",
+    "static/media/PixelatedFont.ttf": "/static/media/PixelatedFont.e3d365ba5fa6a65e9caf.ttf",
+    "index.html": "/index.html",
+    "main.0a3b9a21.css.map": "/static/css/main.0a3b9a21.css.map",
+    "main.357c8585.js.map": "/static/js/main.357c8585.js.map",
+    "453.b678e037.chunk.js.map": "/static/js/453.b678e037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a3b9a21.css",
+    "static/js/main.357c8585.js"
+  ]
+}
