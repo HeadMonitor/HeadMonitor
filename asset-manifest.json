@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a3b9a21.css",
-    "main.js": "/static/js/main.357c8585.js",
+    "main.css": "/static/css/main.1e29b1a8.css",
+    "main.js": "/static/js/main.68a4c247.js",
     "static/js/453.b678e037.chunk.js": "/static/js/453.b678e037.chunk.js",
+    "static/media/ScreenCrow Studios Logo.png": "/static/media/ScreenCrow Studios Logo.97bfededf3b9effb1708.png",
     "static/media/PixelatedFont.ttf": "/static/media/PixelatedFont.e3d365ba5fa6a65e9caf.ttf",
+    "static/media/Background.png": "/static/media/Background.f4e5e5d6a7c795af71a6.png",
     "index.html": "/index.html",
-    "main.0a3b9a21.css.map": "/static/css/main.0a3b9a21.css.map",
-    "main.357c8585.js.map": "/static/js/main.357c8585.js.map",
+    "main.1e29b1a8.css.map": "/static/css/main.1e29b1a8.css.map",
+    "main.68a4c247.js.map": "/static/js/main.68a4c247.js.map",
     "453.b678e037.chunk.js.map": "/static/js/453.b678e037.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a3b9a21.css",
-    "static/js/main.357c8585.js"
+    "static/css/main.1e29b1a8.css",
+    "static/js/main.68a4c247.js"
   ]
 }
