@@ -8,11 +8,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,ps,pr,git,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nginx,git,mysql" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nginx" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=cs,java,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js" />
   </a>
 </div>
 
