@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/emojis/667396343790174228.gif?size=128&quality=lossless" />
+  <img src='https://github.com/user-attachments/assets/dd92bf9b-7058-44f4-83b6-8ca089342c8c' width='256' />
 </p>
