@@ -1,0 +1,131 @@
+@font-face
+{
+    font-family: 'Pixel';
+    src: url('../src/8-bit\ Arcade\ In.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+    font-family: Pixel;
+    background-image: url(images/Background.png);
+    background-attachment: fixed;
+    background-position: center;
+    color: #333;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 5rem;
+    color: #6077FF;
+    
+    text-shadow:
+        -1px -1px 0 #333,
+        1px -1px 0 #333,
+        -1px 1px 0 #333,
+        1px 1px 0 #333,
+        -5px 5px 2px #333;
+
+    margin-bottom: 20px;
+}
+
+h2
+{
+    font-size: 4rem;
+
+    text-shadow:
+        -1px -1px 0 #333,
+        1px -1px 0 #333,
+        -1px 1px 0 #333,
+        1px 1px 0 #333,
+        -5px 5px 2px #333;
+
+    margin-bottom: 20px;
+}
+
+header
+{
+
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+}
+
+header img
+{
+    width: 150;
+    height: 150px;
+    border-radius: 50%;
+    outline: 5px solid #333;
+}
+
+footer
+{
+    margin-top: 5rem;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+/* ////////// Projects ////////// */
+.projects
+{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+    animation-delay: 1s;
+}
+
+.projects_title
+{
+    color: #3BBAF1;
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+    animation-delay: 1s;
+}
+
+.project
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+    font-size: 1.5rem;
+}
+
+.project img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+}
+/* ////////////////////////////// */
+
+/* ////////// Skills ////////// */
+.skills
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+    animation-delay: 2s;
+}
+
+.skills_title
+{
+    color: #FFFFFF;
+}
+/* ////////////////////////////// */
+
+@keyframes fadeIn {
+      to {
+        opacity: 1;            /* End fully visible */
+      }
+    }
