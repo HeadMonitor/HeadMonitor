@@ -11,6 +11,7 @@ body
     font-family: Pixel;
     background-image: url(images/Background.png);
     background-attachment: fixed;
+    background-size:cover;
     background-position: center;
     color: #333;
     text-align: center;
@@ -99,9 +100,7 @@ footer
 
 .project img
 {
-    width: 100px;
-    height: 100px;
-    border-radius: 25%;
+    width: 150px;
 }
 /* ////////////////////////////// */
 
